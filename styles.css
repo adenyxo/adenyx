@@ -10711,6 +10711,50 @@ readers do not read off random characters that represent icons */
   font-style: italic;
   font-display: swap;
 }
+h1, h2, h3 {
+  font-family: "Unbounded", sans-serif;
+  font-weight: 700;
+}
+
+h4, h5, h6 {
+  font-family: "Hepta Slab", sans-serif;
+  font-weight: 500;
+}
+
+button, a, code {
+  font-family: "Source Code Pro", monospace;
+  font-weight: 400;
+}
+
+body, b, p, i, ul, ol, li, blockquote, pre {
+  font-family: "Alumni Sans", sans-serif;
+  font-weight: 400;
+}
+
+h1 {
+  font-size: clamp(3rem, 4vw + 1rem, 5rem);
+}
+
+h2 {
+  font-size: clamp(2.5rem, 3vw + 1rem, 4rem);
+}
+
+h3 {
+  font-size: clamp(2rem, 3vw + 1rem, 3rem);
+}
+
+h4 {
+  font-size: clamp(1.75rem, 3vw + 1rem, 2.75rem);
+}
+
+h5 {
+  font-size: clamp(1.5rem, 3vw + 1rem, 2.5rem);
+}
+
+h6 {
+  font-size: clamp(1.25rem, 3vw + 1rem, 2rem);
+}
+
 * {
   margin: 0;
   padding: 0;
