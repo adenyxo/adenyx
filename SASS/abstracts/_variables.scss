@@ -15,31 +15,22 @@
                                          █████████████████████████████████████████                                        
 */
 // Color palette
-$primary-dark:#a15bc9;
-$secondary-dark:#311A3D;
-$tertiary-dark:#ebc3ff;
-$quartenary-dark:#5e4b67eb;
-$quinary-dark:#c85b83;
-$primary:#c57dcf;
-$secondary:#e5c0e9;
-$tertiary:#99809ce7;
-$quartenary:#2c262ce2;
-$quinary:#a4dfd9;
+$primary:#a15bc9;
+$secondary:#311A3D;
+$tertiary:#ebc3ff;
+$quartenary:#5e4b67eb;
+$quinary:#c85b83;
+$ax:#a4dfd9;
 $grad:#f5e2ff; $grad-100:#cea6e2; $grad-200:#8a7695; $grad-300:#64576c; $grad-border:#352d39da;
 
 // Theming v.1.0.0.0 LIGHT
 $bg:$secondary;
-$hf:$primary; //headers footers
+$hf:$primary;
 $borders:$tertiary;
 $text-color:$quartenary;
 $accent:$quinary;
+$accent2:$ax;
 
-// V.1.0.0.0 DARK
-$bg-dark:$secondary-dark;
-$hf-dark:$primary-dark;
-$borders-dark:$tertiary-dark;
-$text-color-dark:$quartenary-dark;
-$accent-dark:$quinary-dark;
 
 
 // TYPOGRAPHY VARS V.1.0.0.0

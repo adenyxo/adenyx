@@ -54,22 +54,30 @@
 h1, h2, h3{
     font-family:$Unbounded;
     font-weight:700;
+    color:$bg;
 }
 
 h4, h5, h6{
     font-family:$HeptaSlab;
     font-weight:500;
+    color:$text-color;
 }
 
 button, a, code{
     font-family:$SourceCodePro;
     font-weight:400;
+    text-decoration:none;
+}
+a, b{
+    color:$accent;
 }
 
 body, b, p, i, ul, ol, li, blockquote, pre{
     font-family:$AlumniSans;
     font-weight:400;
     $font-size:$para;
+    color:$text-color;
+    line-height:1.25;
 }
 
 h1{

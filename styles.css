@@ -10714,21 +10714,30 @@ readers do not read off random characters that represent icons */
 h1, h2, h3 {
   font-family: "Unbounded", sans-serif;
   font-weight: 700;
+  color: #311A3D;
 }
 
 h4, h5, h6 {
   font-family: "Hepta Slab", sans-serif;
   font-weight: 500;
+  color: rgba(94, 75, 103, 0.9215686275);
 }
 
 button, a, code {
   font-family: "Source Code Pro", monospace;
   font-weight: 400;
+  text-decoration: none;
+}
+
+a, b {
+  color: #c85b83;
 }
 
 body, b, p, i, ul, ol, li, blockquote, pre {
   font-family: "Alumni Sans", sans-serif;
   font-weight: 400;
+  color: rgba(94, 75, 103, 0.9215686275);
+  line-height: 1.25;
 }
 
 h1 {
