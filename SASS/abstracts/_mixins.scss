@@ -1,0 +1,11 @@
+@mixin reset{
+    margin:0;
+    padding:0;
+    border:none;
+    box-sizing:border-box;
+    font-family:$AlumniSans;
+    font-size:$base-font;
+    overflow:hidden;
+    text-decoration:none;
+    line-height:1.5;
+}

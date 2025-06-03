@@ -1,0 +1,53 @@
+/*headers*/
+@font-face {
+  font-family: 'Unbounded';
+  src: url("/Assets/Fonts/Unbounded/Unbounded-VariableFont_wght.ttf");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* subheaders */
+@font-face {
+  font-family: 'Hepta Slab';
+  src: url("/Assets/Fonts/Hepta_Slab/HeptaSlab-VariableFont_wght.ttf");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* links + code + buttons */
+@font-face {
+  font-family: 'Source Code Pro';
+  src: url("/Assets/Fonts/Source_Code_Pro/SourceCodePro-VariableFont_wght.ttf");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* italic links + code + buttons */
+@font-face {
+  font-family: 'Source Code Pro';
+  src: url("/Assets/Fonts/Source_Code_Pro/SourceCodePro-Italic-VariableFont_wght.ttf");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/*body*/
+@font-face {
+  font-family: 'Alumni Sans';
+  src: url("/Assets/Fonts/Alumni_Sans/AlumniSans-VariableFont_wght.ttf");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/*body italic*/
+@font-face {
+  font-family: 'Alumni Sans';
+  src: url("/Assets/Fonts/Alumni_Sans/AlumniSans-Italic-VariableFont_wght.ttf");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}

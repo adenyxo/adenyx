@@ -1,0 +1,12 @@
+$fa-font-path: '/Assets/webfonts';
+@import 'vendors/fontawesome/fontawesome';
+@import 'vendors/fontawesome/animated';
+@import 'vendors/fontawesome/regular';
+@import 'vendors/fontawesome/solid';
+@import 'vendors/fontawesome/brands';
+
+@import 'abstracts/variables';
+@import 'abstracts/typography';
+@import 'abstracts/mixins';
+@import 'abstracts/functions';
+@import 'abstracts/skeleton';
